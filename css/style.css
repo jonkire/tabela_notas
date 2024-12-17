@@ -1,0 +1,21 @@
+table {
+    text-align: center;
+    width: 50%;
+    min-width: 300px;
+    margin: 50px auto auto auto;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 5px;
+}
+
+.alunos {
+    text-align: left;
+}
+
+.lin-impar {
+    background-color: rgb(240,248,255);
+}
